@@ -7,9 +7,11 @@
 #include "ns3/csma-module.h"
 #include "ns3/internet-module.h"
 
- //  n0-----------------n1-----------------n2
- //  |--------------------------------------|
-
+ //        n1
+ //      /    \
+ //     /      \
+ //    /        \
+ //  n0----------n2
 
 using namespace ns3;
 
